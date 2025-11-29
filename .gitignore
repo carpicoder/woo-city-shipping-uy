@@ -1,0 +1,20 @@
+﻿# WordPress
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (si usás build tools en el futuro)
+node_modules/
+package-lock.json
+
+# Composer (si usás dependencias PHP)
+vendor/
+composer.lock

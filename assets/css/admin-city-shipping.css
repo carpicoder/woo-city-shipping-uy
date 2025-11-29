@@ -1,0 +1,59 @@
+.wc-city-select-shipping-wrap {
+	max-width: 1200px;
+}
+
+.wc-city-select-shipping-wrap .form-table th {
+	width: 200px;
+}
+
+.wc-city-select-shipping-wrap .required {
+	color: #d63638;
+}
+
+.wc-city-select-shipping-wrap fieldset label {
+	font-weight: normal;
+}
+
+.wc-city-select-shipping-wrap .regular-text {
+	min-width: 300px;
+}
+
+.wc-city-select-shipping-wrap h2 {
+	margin-top: 30px;
+}
+
+#cities-list-container {
+	max-height: 300px;
+	overflow-y: auto;
+	border: 1px solid #ddd;
+	padding: 10px;
+	background: #fff;
+	border-radius: 3px;
+}
+
+#cities-list-container label {
+	font-weight: normal;
+	cursor: pointer;
+	padding: 3px 0;
+}
+
+#cities-list-container label:hover {
+	background-color: #f0f0f1;
+}
+
+#cities-list-container .no-cities-message {
+	margin: 0;
+	color: #646970;
+	font-style: italic;
+}
+
+#select-all-cities,
+#deselect-all-cities {
+	text-decoration: none;
+}
+
+#select-all-cities:hover,
+#deselect-all-cities:hover {
+	text-decoration: underline;
+}
+
