@@ -65,7 +65,7 @@ Antes de usar el plugin, necesitás configurar tus zonas y métodos de envío en
 
 3. Dentro de cada zona, agregá los métodos de envío que querés ofrecer (por ejemplo: envío gratis, precio fijo, retiro en local, etc.).
 
-![Configuración de zonas de envío](assets/screenshots/001-zonas-envio.png)
+![Configuración de zonas de envío](https://raw.githubusercontent.com/carpicoder/woo-city-shipping-uy/refs/heads/main/assets/screenshots/001.png)
 
 ### Paso 2: Acceder a la configuración del plugin
 
@@ -87,13 +87,13 @@ Ahora vas a configurar qué métodos de envío están disponibles para cada ciud
 
 5. Hacé clic en **Agregar regla**.
 
-![Configuración de regla por ciudad](assets/screenshots/002-crear-regla.png)
+![Configuración de regla por ciudad](https://raw.githubusercontent.com/carpicoder/woo-city-shipping-uy/refs/heads/main/assets/screenshots/002.png)
 
 ### Paso 4: Verificar las reglas configuradas
 
 Una vez guardada, tu regla aparecerá en la tabla de reglas configuradas, donde podrás editarla o eliminarla cuando quieras.
 
-![Reglas configuradas](assets/screenshots/003-regla-guardada.png)
+![Reglas configuradas](https://raw.githubusercontent.com/carpicoder/woo-city-shipping-uy/refs/heads/main/assets/screenshots/003.png)
 
 ### Paso 5: Comportamiento en el checkout
 
@@ -103,13 +103,13 @@ Si un cliente selecciona una ciudad que no tiene reglas específicas, verá todo
 
 Por ejemplo, si selecciona Montevideo y una ciudad sin reglas:
 
-![Checkout sin reglas](assets/screenshots/004-sin-reglas.png)
+![Checkout sin reglas](https://raw.githubusercontent.com/carpicoder/woo-city-shipping-uy/refs/heads/main/assets/screenshots/004.png)
 
 **Para ciudades CON reglas configuradas:**
 
 Si un cliente selecciona una ciudad con reglas específicas, solo verá los métodos de envío que configuraste para esa ciudad.
 
-![Checkout con reglas](assets/screenshots/005-con-reglas.png)
+![Checkout con reglas](https://raw.githubusercontent.com/carpicoder/woo-city-shipping-uy/refs/heads/main/assets/screenshots/005.png)
 
 ## Gestión de reglas
 
